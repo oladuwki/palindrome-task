@@ -1,0 +1,14 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "palindrome.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nikita Dannik",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
